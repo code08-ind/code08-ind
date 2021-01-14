@@ -1,7 +1,8 @@
-### Hi there 👋
-
+[![Header](https://github.com/code08-ind/pic_github/blob/master/github.PNG "Header")](https://code08-ind.github.io/Portfolio_08/)
+# Hello, Folks! 👋
+My Name Is **Aryan Garg** And I'm A Full Stack Web Developer And Software Developer Enthusiast. I Live In Patiala, Punjab, India. I A'm Currently Second Year Student At **Dr. B.R. Ambedkar National Institute Of Technology, Jalandhar, Punjab** Pursuing B.E. In **Information Technology(IT)**. You Can Contact Me At ![LinkedIn](https://github.com/paulrobertlloyd/socialmediaicons/blob/main/linkedin-16x16.png)
 <!--
-**code08-ind/code08-ind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**code08-ind/code08-ind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.**
 
 Here are some ideas to get you started:
 
