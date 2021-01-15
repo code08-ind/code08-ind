@@ -9,7 +9,7 @@ My Name Is **Aryan Garg** And I'm A Full Stack Web Developer And Software Develo
 <h2>:writing_hand: More About Me</h2>
 
 
-Apart From Coding In Programming Language C And C++, I Like To Work In **MERN Stack Of Web Development**. I Have Also The Member Of **DSC NITJ**. I Also Written My Blog At **Medium** And Available At **DEV** Too. I Am Open For Discussions And Making New Projects.
+Apart From Coding In Programming Language C And C++, I Like To Work In **MERN Stack Of Web Development**. I Am Also The Member Of **DSC NITJ**. I Have Also Written My Blog At **Medium** And I'm Also Available At **DEV** Too. I Am Open For Any Discussions And Making New Projects.
 
 
 - 🔭 I’m currently working on BackEnd Web Development.
@@ -19,7 +19,7 @@ Apart From Coding In Programming Language C And C++, I Like To Work In **MERN St
 - 💬 Ask me about Web Development And Programming.
 - 📫 How to reach me: Links Are Given Above.
 - 😄 Pronouns: Energetic, Passionate, Sincere.
-- ⚡ Fun fact: I Get Confused About A Problem Despite The Solution Lies In Front Of Me.
+- ⚡ Fun fact: No One Can Stop Me From Eating Biryani But I Am Trying To Reduce Eating It.
 
 
 <h2>:hammer_and_wrench: Technologies And Tools Used</h2>
