@@ -1,9 +1,16 @@
 <h1 align="center">Hello, Folks! 👋</h1>
 
+<h2 align="center">Looking To Try New Things.</h2>
+
 [![Header](https://github.com/code08-ind/pic_github/blob/master/github.PNG "Aryan Garg")](https://code08-ind.github.io/Portfolio_08/)
 
 
 My Name Is **Aryan Garg** And I'm A Full Stack Web Developer And Software Developer Enthusiast. I Hail From Patiala, Punjab, India. I A'm Currently A Second Year Student At **Dr. B.R. Ambedkar National Institute Of Technology, Jalandhar, Punjab** Pursuing B.E/B.Tech In **Information Technology(IT)**. You Can Find Me At [LinkedIn](https://www.linkedin.com/in/aryan-garg-661552198/), [Instagram](https://www.instagram.com/aryan_garg_08/), [Medium](https://gargaryan82000.medium.com/) Or You Can Also Contact Me At My Email : [@Aryan Garg](mailto:gargaryan82000@gmail.com).
+
+![](https://komarev.com/ghpvc/?username=code08-ind&color=orange)
+![](https://img.shields.io/badge/Age-21_Years-informational?style=flat&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Focus_On-Full_Stack_Web_Developemnt-informational?style=flat&logoColor=white&color=informational)
+![](https://img.shields.io/badge/Hails_From-Patiala-informational?style=flat&logoColor=white&color=success)
 
 
 <h2>:writing_hand: More About Me</h2>
@@ -17,9 +24,11 @@ Apart From Coding In Programming Language C And C++, I Like To Work In **MERN St
 - 👯 I’m looking to collaborate on Web Development Projects.
 - 🤔 I’m looking for help with Any Web Dev Projects In FrontEnd And BackEnd Both.
 - 💬 Ask me about Web Development And Programming.
-- 📫 How to reach me: Links Are Given Above.
-- 😄 Pronouns: Energetic, Passionate, Sincere.
-- ⚡ Fun fact: No One Can Stop Me From Eating Biryani But I Am Trying To Reduce Eating It.
+- :briefcase: You Can View My Portfolio At : https://code08-ind.github.io/Portfolio_08/
+- 📫 How to reach me : Links Are Given Above.
+- 😄 Adjectives : Energetic, Passionate, Sincere.
+- 🤔 Pronouns : He, Him, His
+- ⚡ Fun fact : No One Can Stop Me From Eating Biryani But I Am Trying To Reduce Eating It.
 
 
 <h2>:hammer_and_wrench: Technologies And Tools Used</h2>
