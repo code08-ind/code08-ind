@@ -42,7 +42,7 @@ Apart From Coding In Programming Language C And C++, I Like To Work In **MERN St
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=success)
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=success)
 
-![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=success)
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c-plus-plus&logoColor=white&color=success)
 ![](https://img.shields.io/badge/Cloud-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=success)
 ![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=success)
 ![](https://img.shields.io/badge/Tools-Express-informational?style=flat&logo=express&logoColor=white&color=success)
