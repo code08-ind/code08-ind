@@ -74,7 +74,9 @@ I Have Written Blogs And Technical Stories On Medium. You Can Have Look At Them 
 
 - Blog On : [Perfect Blend Of CSS And JAVASCRIPT In Front End Web Development World](https://gargaryan82000.medium.com/perfect-combination-of-css-and-javascript-in-front-end-web-development-aa5e33a4886c)
 
-![](https://img.shields.io/badge/Visitors-100+-informational?style=flat&logo=&logoColor=white&color=informational)
+![](https://img.shields.io/badge/Visitors-150+-informational?style=flat&logo=&logoColor=white&color=informational)
+![](https://img.shields.io/badge/Likes-200+-informational?style=flat&logo=&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/Followers-6-informational?style=flat&logo=&logoColor=white&color=important)
 
 <!--
 **code08-ind/code08-ind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.**
