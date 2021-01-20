@@ -7,7 +7,7 @@
 My Name Is **Aryan Garg** And I'm A Full Stack Web Developer And Software Developer Enthusiast. I Hail From Patiala, Punjab, India. I A'm Currently A Second Year Student At **Dr. B.R. Ambedkar National Institute Of Technology, Jalandhar, Punjab** Pursuing B.E/B.Tech In **Information Technology(IT)**. You Can Find Me At [LinkedIn](https://www.linkedin.com/in/aryan-garg-661552198/), [Instagram](https://www.instagram.com/aryan_garg_08/), [Medium](https://gargaryan82000.medium.com/) Or You Can Also Contact Me At My Email : [@Aryan Garg](mailto:gargaryan82000@gmail.com).
 
 ![](https://komarev.com/ghpvc/?username=code08-ind&color=orange)
-![](https://img.shields.io/badge/Age-21_Years-informational?style=flat&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Age-20_Years-informational?style=flat&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Focus_On-Full_Stack_Web_Developemnt-informational?style=flat&logoColor=white&color=informational)
 ![](https://img.shields.io/badge/Hails_From-Patiala-informational?style=flat&logoColor=white&color=success)
 
