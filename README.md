@@ -56,8 +56,7 @@ Apart From Coding In Programming Language C And C++, I Like To Work In **MERN St
 
 
 ![Aryan Garg's github stats](https://github-readme-stats.vercel.app/api?username=code08-ind&include_all_commits=true&show_icons=true&theme=synthwave)
-
-[![Top Languages Used By Me](https://github-readme-stats.vercel.app/api/top-langs/?username=code08-ind&langs_count=6&theme=tokyonight)](https://github.com/code08-ind/github-readme-stats)
+[![Top Languages Used By Me](https://github-readme-stats.vercel.app/api/top-langs/?username=code08-ind&langs_count=6&layout=compact&theme=radical)](https://github.com/code08-ind/github-readme-stats)
 
 
 <h2>:bar_chart: Projects</h2>
