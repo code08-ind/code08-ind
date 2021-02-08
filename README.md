@@ -55,8 +55,8 @@ Apart From Coding In Programming Language C And C++, I Like To Work In **MERN St
 <h2>:chart_with_upwards_trend: My Other Stats</h2>
 
 
-![Aryan Garg's github stats](https://github-readme-stats.vercel.app/api?username=code08-ind&include_all_commits=true&show_icons=true&theme=synthwave)
-[![Top Languages Used By Me](https://github-readme-stats.vercel.app/api/top-langs/?username=code08-ind&langs_count=6&layout=compact&theme=radical&card_width=445)](https://github.com/code08-ind/github-readme-stats)
+![Aryan Garg's github stats](https://github-readme-stats.vercel.app/api?username=code08-ind&include_all_commits=true&show_icons=true&theme=synthwave&card_width=200)
+[![Top Languages Used By Me](https://github-readme-stats.vercel.app/api/top-langs/?username=code08-ind&langs_count=6&layout=compact&theme=radical&card_width=200)](https://github.com/code08-ind/github-readme-stats)
 [![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=code08-ind&theme=algolia)](https://github.com/code08-ind/github-readme-streak-stats)
 [![Aryan Garg's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=code08_ind&&layout=compact&theme=chartreuse-dark)](https://github.com/code08-ind/github-readme-stats)
 
