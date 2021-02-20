@@ -25,7 +25,7 @@ Apart From Coding In Programming Language C And C++, I Like To Work In **MERN St
 - 💬 Ask me about Web Development And Programming.
 - :briefcase: You Can View My Portfolio At : https://code08-ind.github.io/Portfolio_08/
 - 📫 How to reach me : Links Are Given Above.
-- 😄 Adjectives : Energetic, Passionate, Sincere.
+- 😄 Adjectives : Energetic, Passionate, Sincere, HardWorking.
 - 🤔 Pronouns : He, Him, His
 - ⚡ Fun fact : No One Can Stop Me From Eating Biryani But I Am Trying To Reduce Eating It.
 
