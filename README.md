@@ -81,7 +81,7 @@ I Have Written Blogs And Technical Stories On Medium. You Can Have Look At Them 
 
 ![](https://img.shields.io/badge/Visitors-180+-informational?style=flat&logo=&logoColor=white&color=informational)
 ![](https://img.shields.io/badge/Likes-200+-informational?style=flat&logo=&logoColor=white&color=brightgreen)
-![](https://img.shields.io/badge/Followers-8-informational?style=flat&logo=&logoColor=white&color=important)
+![](https://img.shields.io/badge/Followers-9-informational?style=flat&logo=&logoColor=white&color=important)
 
 <!--
 **code08-ind/code08-ind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.**
