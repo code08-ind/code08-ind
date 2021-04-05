@@ -88,7 +88,7 @@ I Have Written Blogs And Technical Stories On Medium. You Can Have Look At Them 
 
 - Blog On : [What Is React JS? Understanding React From Basics.](https://gargaryan82000.medium.com/what-is-react-js-understanding-react-from-basics-940df800ff68)
 
-![](https://img.shields.io/badge/Visitors-50+-informational?style=flat&logo=&logoColor=white&color=informational)
+![](https://img.shields.io/badge/Visitors-70+-informational?style=flat&logo=&logoColor=white&color=informational)
 ![](https://img.shields.io/badge/Likes-10+-informational?style=flat&logo=&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/Followers-9-informational?style=flat&logo=&logoColor=white&color=important)
 
