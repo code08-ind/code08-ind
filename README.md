@@ -33,29 +33,13 @@ Apart From Coding In Programming Language C And C++, I Like To Work In **MERN St
 <h2>:hammer_and_wrench: Technologies And Tools Used</h2>
 
 
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=success)
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=success)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=success)
-![](https://img.shields.io/badge/Code-Node.jS-informational?style=flat&logo=node.js&logoColor=white&color=success)
-![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=success)
-![](https://img.shields.io/badge/Code-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=success)
-![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=success)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=success)
-![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=success)
-![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=success)
-![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=dart&logoColor=white&color=success)
-![](https://img.shields.io/badge/Code-ReactJs-informational?style=flat&logo=react&logoColor=white&color=success)
-![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c-plus-plus&logoColor=white&color=success)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=success)
-![](https://img.shields.io/badge/Code-Sass-informational?style=flat&logo=sass&logoColor=white&color=success)
-![](https://img.shields.io/badge/Cloud-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=success)
-![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=success)
-![](https://img.shields.io/badge/Tools-Express-informational?style=flat&logo=express&logoColor=white&color=success)
-![](https://img.shields.io/badge/Tools-jQuery-informational?style=flat&logo=jquery&logoColor=white&color=success)
-![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=success)
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=success)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=white&color=success)
-![](https://img.shields.io/badge/Tools-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=success)
+| GIT | HTML | CSS | JAVASCRIPT| DART | FLUTTER | REACT JS| BOOTSTRAP | FIREBASE | JAVA | HEROKU | VS CODE
+|-----------|-----------|----------| -------- | ---- | ----- | ---- | ---- | ---- | ---- | ---- | ---- |
+| ![GIT](https://img.icons8.com/color/48/000000/git.png "GIT") | ![HTML](https://img.icons8.com/color/48/000000/html-5.png "HTML") |![CSS](https://img.icons8.com/color/48/000000/css3.png "CSS") | ![JAVASCRIPT](https://img.icons8.com/color/48/000000/javascript.png "JAVASCRIPT") | ![DART](https://img.icons8.com/color/48/000000/dart.png "DART") |![FLUTTER](https://img.icons8.com/color/48/000000/flutter.png "FLUTTER") | ![FLUTTER](https://img.icons8.com/color/48/000000/react-native.png "FLUTTER") | ![BOOTSTRAP](https://img.icons8.com/color/48/000000/bootstrap.png "BOOTSTRAP") |![FIREBASE](https://img.icons8.com/color/48/000000/firebase.png "FIREBASE") |![JAVA](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png "JAVA") |![HEROKU](https://img.icons8.com/color/48/000000/heroku.png "HEROKU") |![VS CODE](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png "VS CODE") |
+
+| C++ | SASS | MYSQL | MONGO DB | C | NODE JS | NPM | LINUX | MICROSOFT AZURE | GRAPH QL | JQUERY | GITHUB |
+|-----------|-----------|----------| -------- | ---- | ----- | ---- | ---- | ---- | ---- | ---- | ---- |
+| ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png "C++") | ![SASS](https://img.icons8.com/color/48/000000/sass.png "SASS") |![MYSQL](https://img.icons8.com/color/48/000000/mysql-logo.png "MYSQL") | ![MONGO DB](https://img.icons8.com/color/48/000000/mongodb.png "MONGO DB") | ![C](https://img.icons8.com/color/48/000000/c-programming.png "C") |![NODE JS](https://img.icons8.com/color/48/000000/nodejs.png "NODE JS") | ![NPM](https://img.icons8.com/color/48/000000/npm.png "NPM") | ![LINUX](https://img.icons8.com/color/48/000000/linux.png "LINUX") |![MICROSOFT AZURE](https://img.icons8.com/color/48/000000/azure-1.png "MICROSOFT AZURE") |![GRAPH QL](https://img.icons8.com/color/48/000000/graphql.png "GRAPH QL") |![JQUERY](https://img.icons8.com/ios/50/000000/jquery.png "JQUERY") |![GITHUB](https://img.icons8.com/fluent/48/000000/github.png "GITHUB") |
 
 
 
