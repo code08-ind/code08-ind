@@ -23,7 +23,6 @@ Apart From Coding In Programming Language **JavaScript** And **C++**, I Like To 
 ![](https://img.shields.io/badge/Focus_On-Full_Stack_Web_Developemnt-informational?style=flat&logoColor=white&color=informational)
 ![](https://img.shields.io/badge/Hails_From-Patiala-informational?style=flat&logoColor=white&color=success)
 
-
 - 🔭 I’m currently working on BackEnd Web Development.
 - 🌱 I’m currently learning MERN Stack And DSA.
 - 👯 I’m looking to collaborate on Web Development Projects.
