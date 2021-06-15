@@ -1,10 +1,22 @@
-<h1 align="center">Hello, Folks! 👋</h1>
+<h1 align="center">Hello 👋, Folks! </h1>
 
 [![Header](https://github.com/code08-ind/pic_github/blob/master/github.PNG "Aryan Garg")](https://code08-ind.github.io/Portfolio_08/)
 
-<h2 align="center">Looking To Try New Things.</h2>
+<h2 align="center">Looking To Try New Techs !!!.</h2>
 
-My Name Is **Aryan Garg** And I'm A Full Stack Web Developer And Software Developer Enthusiast. I Hail From Patiala, Punjab, India. I A'm Currently A Second Year Student At **Dr. B.R. Ambedkar National Institute Of Technology, Jalandhar, Punjab** Pursuing B.E/B.Tech In **Information Technology(IT)**. You Can Find Me At [LinkedIn](https://www.linkedin.com/in/aryan-garg-661552198/), [Instagram](https://www.instagram.com/aryan_garg_08/), [Medium](https://gargaryan82000.medium.com/) Or You Can Also Contact Me At My Email : [@Aryan Garg](mailto:gargaryan82000@gmail.com).
+My Name Is **Aryan Garg** And I'm A Full Stack Web Developer And Software Developer Enthusiast. I Hail From Patiala, Punjab, India. I A'm Currently A Second Year Student At **Dr. B.R. Ambedkar National Institute Of Technology, Jalandhar, Punjab** Pursuing B.E/B.Tech In **Information Technology(IT)**. You Can Find Me At :
+
+[![MEDIUM](https://img.shields.io/badge/Medium-informational?style=for-the-badge&logo=medium&logoColor=white&color=success)](https://gargaryan82000.medium.com/)
+[![LINKEDIN](https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=0077b5)](https://www.linkedin.com/in/aryan-garg-661552198/)
+[![INSTAGRAM](https://img.shields.io/badge/Instagram-informational?style=for-the-badge&logo=instagram&logoColor=white&color=8a3ab9)](https://www.instagram.com/aryan_garg_08/)
+[![GMAIL](https://img.shields.io/badge/Gmail-informational?style=for-the-badge&logo=gmail&logoColor=white&color=D44638)](mailto:gargaryan82000@gmail.com)
+[![Stack Overflow](https://img.shields.io/badge/StackOverflow-informational?style=for-the-badge&logo=stack-overflow&logoColor=white&color=f48024)](https://stackoverflow.com/users/14839431/aryan-garg?tab=profile)
+
+
+<h2>:writing_hand: More About Me</h2>
+
+
+Apart From Coding In Programming Language **JavaScript** And **C++**, I Like To Work In **MERN Stack Of Web Development**. I Am **Microsoft Learn Student Ambassador** And A Member Of **DSC NITJ**. I Am Open For Any Discussions And Making New Projects.
 
 ![](https://komarev.com/ghpvc/?username=code08-ind&color=orange)
 ![](https://img.shields.io/badge/Age-21_Years-informational?style=flat&logoColor=white&color=blueviolet)
@@ -12,34 +24,51 @@ My Name Is **Aryan Garg** And I'm A Full Stack Web Developer And Software Develo
 ![](https://img.shields.io/badge/Hails_From-Patiala-informational?style=flat&logoColor=white&color=success)
 
 
-<h2>:writing_hand: More About Me</h2>
-
-
-Apart From Coding In Programming Language C And C++, I Like To Work In **MERN Stack Of Web Development**. I Am Also The Member Of **DSC NITJ**. I Have Also Written My Blog At **Medium** And I'm Also Available At **DEV** Too. I Am Open For Any Discussions And Making New Projects.
-
-
 - 🔭 I’m currently working on BackEnd Web Development.
-- 🌱 I’m currently learning React Js And DSA.
+- 🌱 I’m currently learning MERN Stack And DSA.
 - 👯 I’m looking to collaborate on Web Development Projects.
 - 🤔 I’m looking for help with Any Web Dev Projects In FrontEnd And BackEnd Both.
 - 💬 Ask me about Web Development And Programming.
-- :briefcase: You Can View My Portfolio At : https://code08-ind.github.io/Aryan-Garg/
-- 📫 How to reach me : Links Are Given Above.
-- 😄 Adjectives : Energetic, Passionate, Sincere, HardWorking.
+- :briefcase: You Can View My Portfolio At : **https://code08-ind.github.io/Aryan-Garg/**
 - 🤔 Pronouns : He, Him, His
-- ⚡ Fun fact : No One Can Stop Me From Eating Biryani But I Am Trying To Reduce Eating It.
 
 
 <h2>:hammer_and_wrench: Technologies And Tools Used</h2>
 
 
-| GIT | HTML | CSS | JAVASCRIPT| DART | FLUTTER | REACT JS| BOOTSTRAP | FIREBASE | JAVA | HEROKU |
-|-----------|-----------|----------| -------- | ---- | ----- | ---- | ---- | ---- | ---- | ---- |
-| ![GIT](https://img.icons8.com/color/48/000000/git.png "GIT") | ![HTML](https://img.icons8.com/color/48/000000/html-5.png "HTML") |![CSS](https://img.icons8.com/color/48/000000/css3.png "CSS") | ![JAVASCRIPT](https://img.icons8.com/color/48/000000/javascript.png "JAVASCRIPT") | ![DART](https://img.icons8.com/color/48/000000/dart.png "DART") |![FLUTTER](https://img.icons8.com/color/48/000000/flutter.png "FLUTTER") | ![FLUTTER](https://img.icons8.com/color/48/000000/react-native.png "FLUTTER") | ![BOOTSTRAP](https://img.icons8.com/color/48/000000/bootstrap.png "BOOTSTRAP") |![FIREBASE](https://img.icons8.com/color/48/000000/firebase.png "FIREBASE") |![JAVA](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png "JAVA") |![HEROKU](https://img.icons8.com/color/48/000000/heroku.png "HEROKU") |
+![GIT](https://img.icons8.com/color/48/000000/git.png "GIT") 
+![HTML](https://img.icons8.com/color/48/000000/html-5.png "HTML") 
+![CSS](https://img.icons8.com/color/48/000000/css3.png "CSS") 
+![JAVASCRIPT](https://img.icons8.com/color/48/000000/javascript.png "JAVASCRIPT") 
+![DART](https://img.icons8.com/color/48/000000/dart.png "DART") 
+![FLUTTER](https://img.icons8.com/color/48/000000/flutter.png "FLUTTER") 
+![FLUTTER](https://img.icons8.com/color/48/000000/react-native.png "FLUTTER") 
+![BOOTSTRAP](https://img.icons8.com/color/48/000000/bootstrap.png "BOOTSTRAP") 
+![FIREBASE](https://img.icons8.com/color/48/000000/firebase.png "FIREBASE") 
+![JAVA](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png "JAVA") 
+<br>
+![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png "C++") 
+![SASS](https://img.icons8.com/color/48/000000/sass.png "SASS") 
+![MYSQL](https://img.icons8.com/color/48/000000/mysql-logo.png "MYSQL") 
+![MONGO DB](https://img.icons8.com/color/48/000000/mongodb.png "MONGO DB") 
+![C](https://img.icons8.com/color/48/000000/c-programming.png "C") 
+![NODE JS](https://img.icons8.com/color/48/000000/nodejs.png "NODE JS") 
+![NPM](https://img.icons8.com/color/48/000000/npm.png "NPM") 
+![LINUX](https://img.icons8.com/color/48/000000/linux.png "LINUX") 
+![MICROSOFT AZURE](https://img.icons8.com/color/48/000000/azure-storage-connection--v1.png "MICROSOFT AZURE") 
+![GRAPH QL](https://img.icons8.com/color/48/000000/graphql.png "GRAPH QL") 
+<br>
+![Material UI](https://img.icons8.com/color/48/000000/material-ui.png "Material UI") 
+![SASS](https://img.icons8.com/color/48/000000/opencv.png "SASS") 
+![MYSQL](https://img.icons8.com/color/48/000000/redux.png "MYSQL") 
+![MONGO DB](https://img.icons8.com/color/48/000000/intellij-idea.png "MONGO DB") 
+![C](https://img.icons8.com/color/48/000000/visual-studio-2019.png "C") 
+![NODE JS](https://img.icons8.com/color/48/000000/figma.png "NODE JS") 
+![NPM](https://img.icons8.com/color/48/000000/google-cloud.png "NPM") 
+![LINUX](https://img.icons8.com/color/48/000000/blockchain-new-logo.png "LINUX") 
+![VSCODE](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png "VSCODE") 
+![HEROKU](https://img.icons8.com/color/48/000000/heroku.png "HEROKU")
 
-| C++ | SASS | MYSQL | MONGO DB | C | NODE JS | NPM | LINUX | MICROSOFT AZURE | GRAPH QL | JQUERY |
-|-----------|-----------|----------| -------- | ---- | ----- | ---- | ---- | ---- | ---- | ---- |
-| ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png "C++") | ![SASS](https://img.icons8.com/color/48/000000/sass.png "SASS") |![MYSQL](https://img.icons8.com/color/48/000000/mysql-logo.png "MYSQL") | ![MONGO DB](https://img.icons8.com/color/48/000000/mongodb.png "MONGO DB") | ![C](https://img.icons8.com/color/96/000000/c-programming.png "C") |![NODE JS](https://img.icons8.com/color/48/000000/nodejs.png "NODE JS") | ![NPM](https://img.icons8.com/color/48/000000/npm.png "NPM") | ![LINUX](https://img.icons8.com/color/48/000000/linux.png "LINUX") |![MICROSOFT AZURE](https://img.icons8.com/color/48/000000/azure-1.png "MICROSOFT AZURE") |![GRAPH QL](https://img.icons8.com/color/48/000000/graphql.png "GRAPH QL") |![JQUERY](https://img.icons8.com/ios/50/000000/jquery.png "JQUERY") |
 
 
 
@@ -76,17 +105,3 @@ I Have Written Blogs And Technical Stories On Medium. You Can Have Look At Them 
 ![](https://img.shields.io/badge/Likes-10+-informational?style=flat&logo=&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/Followers-9-informational?style=flat&logo=&logoColor=white&color=important)
 
-<!--
-**code08-ind/code08-ind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.**
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
