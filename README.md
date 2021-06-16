@@ -8,6 +8,7 @@ My Name Is **Aryan Garg** And I'm A Full Stack Web Developer And Software Develo
 
 [![MEDIUM](https://img.shields.io/badge/Medium-informational?style=for-the-badge&logo=medium&logoColor=white&color=success)](https://gargaryan82000.medium.com/)
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=0077b5)](https://www.linkedin.com/in/aryan-garg-661552198/)
+[![NPM](https://img.shields.io/badge/npm-informational?style=for-the-badge&logo=npm&logoColor=white&color=CB3837)](https://www.npmjs.com/~aryangarg)
 [![INSTAGRAM](https://img.shields.io/badge/Instagram-informational?style=for-the-badge&logo=instagram&logoColor=white&color=8a3ab9)](https://www.instagram.com/aryan_garg_08/)
 [![GMAIL](https://img.shields.io/badge/Gmail-informational?style=for-the-badge&logo=gmail&logoColor=white&color=D44638)](mailto:gargaryan82000@gmail.com)
 [![Stack Overflow](https://img.shields.io/badge/StackOverflow-informational?style=for-the-badge&logo=stack-overflow&logoColor=white&color=f48024)](https://stackoverflow.com/users/14839431/aryan-garg?tab=profile)
