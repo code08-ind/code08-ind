@@ -42,7 +42,7 @@ Apart From Coding In Programming Language **JavaScript** And **C++**, I Like To 
 ![JAVASCRIPT](https://img.icons8.com/color/48/000000/javascript.png "JAVASCRIPT") 
 ![DART](https://img.icons8.com/color/48/000000/dart.png "DART") 
 ![FLUTTER](https://img.icons8.com/color/48/000000/flutter.png "FLUTTER") 
-![FLUTTER](https://img.icons8.com/color/48/000000/react-native.png "FLUTTER") 
+![REACT JS](https://img.icons8.com/color/48/000000/react-native.png "REACT JS") 
 ![BOOTSTRAP](https://img.icons8.com/color/48/000000/bootstrap.png "BOOTSTRAP") 
 ![FIREBASE](https://img.icons8.com/color/48/000000/firebase.png "FIREBASE") 
 ![JAVA](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png "JAVA") 
