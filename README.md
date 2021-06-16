@@ -17,7 +17,7 @@ My Name Is **Aryan Garg** And I'm A Full Stack Web Developer And Software Develo
 <h2>:writing_hand: More About Me</h2>
 
 
-Apart From Coding In Programming Language **JavaScript** And **C++**, I Like To Work In **MERN Stack Of Web Development**. I Am **Microsoft Learn Student Ambassador** And A Member Of **DSC NITJ**. I Am Open For Any Discussions And Making New Projects.
+Apart From Coding In Programming Language **JavaScript** And **C++**, I Like To Work In **MERN Stack Of Web Development**. I Am **Microsoft Learn Student Ambassador** And A Member Of **DSC NITJ**. I Am Open For Any Discussions And Making New Projects. I Have Also Contributed To NPM By Contributing Public 5 NPM Packages On It And In Open Source Contribution
 
 ![](https://komarev.com/ghpvc/?username=code08-ind&color=orange)
 ![](https://img.shields.io/badge/Age-21_Years-informational?style=flat&logoColor=white&color=blueviolet)
@@ -105,3 +105,9 @@ I Have Written Blogs And Technical Stories On Medium. You Can Have Look At Them 
 ![](https://img.shields.io/badge/Likes-10+-informational?style=flat&logo=&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/Followers-9-informational?style=flat&logo=&logoColor=white&color=important)
 
+
+- Blog On : [The Best Visual Studio Code Extensions for Front End Developers](https://code08-ind.github.io/Blog_2/)
+
+![](https://img.shields.io/badge/Visitors-40+-informational?style=flat&logo=&logoColor=white&color=informational)
+![](https://img.shields.io/badge/Likes-10+-informational?style=flat&logo=&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/Followers-9-informational?style=flat&logo=&logoColor=white&color=important)
