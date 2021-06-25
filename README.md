@@ -45,8 +45,6 @@ Apart From Coding In Programming Language **JavaScript** And **C++**, I Like To 
 ![FLUTTER](https://img.icons8.com/color/48/000000/flutter.png "FLUTTER") 
 ![REACT JS](https://img.icons8.com/color/48/000000/react-native.png "REACT JS") 
 ![BOOTSTRAP](https://img.icons8.com/color/48/000000/bootstrap.png "BOOTSTRAP") 
-![FIREBASE](https://img.icons8.com/color/48/000000/firebase.png "FIREBASE") 
-![JAVA](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png "JAVA") 
 <br>
 ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png "C++") 
 ![SASS](https://img.icons8.com/color/48/000000/sass.png "SASS") 
@@ -56,8 +54,6 @@ Apart From Coding In Programming Language **JavaScript** And **C++**, I Like To 
 ![NODE JS](https://img.icons8.com/color/48/000000/nodejs.png "NODE JS") 
 ![NPM](https://img.icons8.com/color/48/000000/npm.png "NPM") 
 ![LINUX](https://img.icons8.com/color/48/000000/linux.png "LINUX") 
-![MICROSOFT AZURE](https://img.icons8.com/color/48/000000/azure-storage-connection--v1.png "MICROSOFT AZURE") 
-![GRAPH QL](https://img.icons8.com/color/48/000000/graphql.png "GRAPH QL") 
 <br>
 ![Material UI](https://img.icons8.com/color/48/000000/material-ui.png "Material UI") 
 ![OPEN CV](https://img.icons8.com/color/48/000000/opencv.png "OPEN CV") 
@@ -66,9 +62,16 @@ Apart From Coding In Programming Language **JavaScript** And **C++**, I Like To 
 ![VISUAL STUDIO](https://img.icons8.com/color/48/000000/visual-studio-2019.png "VISUAL STUDIO") 
 ![FIGMA](https://img.icons8.com/color/48/000000/figma.png "FIGMA") 
 ![GOOGLE CLOUD](https://img.icons8.com/color/48/000000/google-cloud.png "GOOGLE CLOUD") 
-![BLOCKCHAIN](https://img.icons8.com/color/48/000000/blockchain-new-logo.png "BLOCKCHAIN") 
+![BLOCKCHAIN](https://img.icons8.com/color/48/000000/blockchain-new-logo.png "BLOCKCHAIN")
+<br>
+![FIREBASE](https://img.icons8.com/color/48/000000/firebase.png "FIREBASE") 
+![JAVA](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png "JAVA") 
+![MICROSOFT AZURE](https://img.icons8.com/color/48/000000/azure-storage-connection--v1.png "MICROSOFT AZURE") 
+![GRAPH QL](https://img.icons8.com/color/48/000000/graphql.png "GRAPH QL") 
 ![VSCODE](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png "VSCODE") 
 ![HEROKU](https://img.icons8.com/color/48/000000/heroku.png "HEROKU")
+![DOCKER](https://img.icons8.com/color/48/000000/docker.png "DOCKER")
+![KUBERNETES](https://img.icons8.com/color/48/000000/kubernetes.png "KUBERNETES")
 
 
 
