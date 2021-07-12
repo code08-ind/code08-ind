@@ -26,7 +26,7 @@ Apart From Coding In Programming Language **JavaScript** And **C++**, I Like To 
 ![](https://komarev.com/ghpvc/?username=code08-ind&color=orange&style=flat-square)
 
 - 🔭 I’m currently working on BackEnd Web Development.
-  - 🌱 I’m currently Into MERN Stack And DSA.
+- 🌱 I’m currently Into MERN Stack And DSA.
 - 👯 I’m looking to collaborate on Web Development Projects.
 - 🤔 I’m looking for help with Any Web Dev Projects In FrontEnd And BackEnd Both.
 - 💬 Ask me about Web Development And Programming.
