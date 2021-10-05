@@ -92,7 +92,7 @@ Apart From Coding In Programming Language **JavaScript** And **C++**, I Like To 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=code08-ind&include_all_commits=true&show_icons=true&theme=synthwave"  width="400px" height="150px" />
 </a>
 <a href="https://github.com/code08-ind/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=code08-ind&langs_count=10&layout=compact&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=code08-ind&langs_count=10&layout=compact&theme=radical" height="150px" />
 </a>
 
 <br/>
@@ -101,7 +101,7 @@ Apart From Coding In Programming Language **JavaScript** And **C++**, I Like To 
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=code08-ind&theme=algolia"  width="400px" height="150px" />
 </a>
 <a href="https://github.com/code08-ind/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=code08_ind&&layout=compact&theme=dracula" width="450px" height="150px" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=code08_ind&&layout=compact&theme=dracula" width="400px" height="150px" />
 </a>
 
 
