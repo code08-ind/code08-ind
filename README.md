@@ -87,7 +87,7 @@ Apart From Coding In Programming Language **JavaScript** And **C++**, I Like To 
 [![Aryan Garg's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=code08_ind&&layout=compact&theme=dracula)](https://github.com/code08-ind/github-readme-stats)
 
 
-[![Header](https://i.ibb.co/ChF4R3r/main.gif "Aryan Garg")](https://code08-ind.github.io/Portfolio_08/)
+[![Header](https://github.com/code08-ind/GIF/blob/main/main.gif "Aryan Garg")](https://code08-ind.github.io/Portfolio_08/)
 
 
 <h2>:bar_chart: Projects</h2>
