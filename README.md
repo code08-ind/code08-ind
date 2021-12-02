@@ -83,7 +83,7 @@ Apart From Coding In Programming Language **JavaScript** And **C++**, I Like To 
 
 ![Aryan Garg's github stats](https://github-readme-stats.vercel.app/api?username=code08-ind&include_all_commits=true&show_icons=true&theme=synthwave)
 [![Top Languages Used By Me](https://github-readme-stats.vercel.app/api/top-langs/?username=code08-ind&langs_count=10&layout=compact&theme=radical&card_width=445)](https://github.com/code08-ind/github-readme-stats)
-
+[![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=code08-ind&theme=algolia)](https://github.com/code08-ind/github-readme-streak-stats)
 [![Aryan Garg's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=code08_ind&&layout=compact&theme=dracula)](https://github.com/code08-ind/github-readme-stats)
 
 
