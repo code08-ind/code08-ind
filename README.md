@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, Folks! </h1>
+<h1 align="center">Hello Folks 👋, I Am Aryan Garg </h1>
 
 [![Header](https://github.com/code08-ind/Header/blob/main/I%20AM%20ARYAN%20GARG.png "Aryan Garg")](https://code08-ind.github.io/Portfolio_08/)
 
@@ -17,7 +17,7 @@ My Name Is **Aryan Garg** And I'm A Full Stack Web Developer And Software Develo
 [![Portfolio Website](https://img.shields.io/badge/AryanGarg-informational?style=for-the-badge&logo=google-chrome&logoColor=white&color=4885ed)](https://code08-ind.github.io/Aryan-Garg/)
 
 
-<h2>:writing_hand: More About Me</h2>
+<h2 align="center">:writing_hand: More About Me</h2>
 
 
 Apart From Coding In Programming Language **JavaScript** And **C++**, I Like To Work In **MERN Stack Of Web Development**. I Am **Microsoft Learn Student Ambassador** And A Member Of **DSC NITJ**. I Am Open For Any Discussions And Making New Projects. I Have Also Contributed To NPM By Contributing Public 5 NPM Packages On It And In Open Source Contribution.
@@ -36,8 +36,7 @@ Apart From Coding In Programming Language **JavaScript** And **C++**, I Like To 
 - 🤔 Pronouns : He, Him, His
 
 
-<h2>:hammer_and_wrench: Technologies And Tools Used</h2>
-
+<h2 align="center">:hammer_and_wrench: Technologies And Tools Used</h2>
 
 ![GIT](https://img.icons8.com/color/48/000000/git.png "GIT") 
 ![HTML](https://img.icons8.com/color/48/000000/html-5.png "HTML") 
@@ -51,12 +50,12 @@ Apart From Coding In Programming Language **JavaScript** And **C++**, I Like To 
 ![SASS](https://img.icons8.com/color/48/000000/sass.png "SASS") 
 ![NPM](https://img.icons8.com/color/48/000000/npm.png "NPM") 
 ![LINUX](https://img.icons8.com/color/48/000000/linux.png "LINUX") 
-<br>
 ![Material UI](https://img.icons8.com/color/48/000000/material-ui.png "Material UI") 
 ![OPEN CV](https://img.icons8.com/color/48/000000/opencv.png "OPEN CV") 
 ![REDUX](https://img.icons8.com/color/48/000000/redux.png "REDUX") 
 ![INTELLI J IDEA](https://img.icons8.com/color/48/000000/intellij-idea.png "INTELLI J IDEA") 
 ![VISUAL STUDIO](https://img.icons8.com/color/48/000000/visual-studio-2019.png "VISUAL STUDIO") 
+<br>
 ![FIGMA](https://img.icons8.com/color/48/000000/figma.png "FIGMA") 
 ![GOOGLE CLOUD](https://img.icons8.com/color/48/000000/google-cloud.png "GOOGLE CLOUD") 
 ![BLOCKCHAIN](https://img.icons8.com/color/48/000000/blockchain-new-logo.png "BLOCKCHAIN")
@@ -64,7 +63,6 @@ Apart From Coding In Programming Language **JavaScript** And **C++**, I Like To 
 ![MONGO DB](https://img.icons8.com/color/48/000000/mongodb.png "MONGO DB") 
 ![C](https://img.icons8.com/color/48/000000/c-programming.png "C") 
 ![NODE JS](https://img.icons8.com/color/48/000000/nodejs.png "NODE JS") 
-<br>
 ![FIREBASE](https://img.icons8.com/color/48/000000/firebase.png "FIREBASE") 
 ![APOLLO](https://img.icons8.com/color/48/000000/apollo.png "APOLLO")
 ![JAVA](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png "JAVA") 
@@ -75,12 +73,12 @@ Apart From Coding In Programming Language **JavaScript** And **C++**, I Like To 
 ![HEROKU](https://img.icons8.com/color/48/000000/heroku.png "HEROKU")
 ![DOCKER](https://img.icons8.com/color/48/000000/docker.png "DOCKER")
 ![SUBLIME-TEXT](https://img.icons8.com/color/48/000000/sublime-text.png "SUBLIME-TEXT")
+<br>
 ![KUBERNETES](https://img.icons8.com/color/48/000000/kubernetes.png "KUBERNETES")
 ![GITHUB](https://img.icons8.com/color/48/000000/github--v1.png "GITHUB")
+ 
 
-
-
-<h2>:chart_with_upwards_trend: My Other Stats</h2>
+<h2 align="center">:chart_with_upwards_trend: My Other Stats</h2>
 
 <table>
  <tr>
@@ -93,17 +91,17 @@ Apart From Coding In Programming Language **JavaScript** And **C++**, I Like To 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=code08-ind&theme=algolia" alt="Aryan Garg" /></p>
  </div>
 
- [![Aryan Garg's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=code08-ind&theme=xcode)](https://git.io/code08-ind)
+ [![Aryan Garg's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=code08-ind&theme=xcode)](https://git.io/code08-ind)
    
 
 
-<h2>:bar_chart: Projects</h2>
+<h2 align="center">:bar_chart: Projects</h2>
 
 
 You Can See All My Projects As They All Are Mentioned In My Repositories In GitHub And Can See My Pined Repos Down The README File.
 
 
-<h2>:card_file_box: Blogs</h2>
+<h2 align="center">:card_file_box: Blogs</h2>
 
 
 I Have Written Blogs And Technical Stories On Medium. You Can Have Look At Them And The Links Are Mentioned Down :
