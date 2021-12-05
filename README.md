@@ -1,10 +1,12 @@
 <h1 align="center">Hello 👋, Folks! </h1>
 
-[![Header](https://github.com/code08-ind/pic_github/blob/master/github.PNG "Aryan Garg")](https://code08-ind.github.io/Portfolio_08/)
+[![Header](https://github.com/code08-ind/Header/blob/main/I%20AM%20ARYAN%20GARG.png "Aryan Garg")](https://code08-ind.github.io/Portfolio_08/)
 
 <h2 align="center">Looking To Try New Techs !!!.</h2>
 
-My Name Is **Aryan Garg** And I'm A Full Stack Web Developer And Software Developer Enthusiast. I Hail From Patiala, Punjab, India. I A'm Currently A Second Year Student At **Dr. B.R. Ambedkar National Institute Of Technology, Jalandhar, Punjab** Pursuing B.E/B.Tech In **Information Technology(IT)**. You Can Find Me At :
+My Name Is **Aryan Garg** And I'm A Full Stack Web Developer And Software Developer Enthusiast. I Hail From Patiala, Punjab, India. I A'm Currently A Third Year Student At **Dr. B.R. Ambedkar National Institute Of Technology, Jalandhar, Punjab** Pursuing B.E/B.Tech In **Information Technology(IT)**. 
+
+<h2 align="center">Let's Get Connected.</h2>
 
 [![MEDIUM](https://img.shields.io/badge/Medium-informational?style=for-the-badge&logo=medium&logoColor=white&color=success)](https://gargaryan82000.medium.com/)
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=0077b5)](https://www.linkedin.com/in/aryan-garg-661552198/)
