@@ -54,7 +54,6 @@ Apart From Coding In Programming Language **JavaScript** And **C++**, I Like To 
 ![OPEN CV](https://img.icons8.com/color/48/000000/opencv.png "OPEN CV") 
 ![REDUX](https://img.icons8.com/color/48/000000/redux.png "REDUX") 
 ![INTELLI J IDEA](https://img.icons8.com/color/48/000000/intellij-idea.png "INTELLI J IDEA") 
-![VISUAL STUDIO](https://img.icons8.com/color/48/000000/visual-studio-2019.png "VISUAL STUDIO") 
 <br>
 ![FIGMA](https://img.icons8.com/color/48/000000/figma.png "FIGMA") 
 ![GOOGLE CLOUD](https://img.icons8.com/color/48/000000/google-cloud.png "GOOGLE CLOUD") 
@@ -72,10 +71,11 @@ Apart From Coding In Programming Language **JavaScript** And **C++**, I Like To 
 ![VSCODE](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png "VSCODE") 
 ![HEROKU](https://img.icons8.com/color/48/000000/heroku.png "HEROKU")
 ![DOCKER](https://img.icons8.com/color/48/000000/docker.png "DOCKER")
-![SUBLIME-TEXT](https://img.icons8.com/color/48/000000/sublime-text.png "SUBLIME-TEXT")
 <br>
+![VISUAL STUDIO](https://img.icons8.com/color/48/000000/visual-studio-2019.png "VISUAL STUDIO") 
 ![KUBERNETES](https://img.icons8.com/color/48/000000/kubernetes.png "KUBERNETES")
 ![GITHUB](https://img.icons8.com/color/48/000000/github--v1.png "GITHUB")
+![SUBLIME-TEXT](https://img.icons8.com/color/48/000000/sublime-text.png "SUBLIME-TEXT")
  
 
 <h2 align="center">:chart_with_upwards_trend: My Other Stats</h2>
