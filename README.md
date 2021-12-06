@@ -4,7 +4,13 @@
 
 <h2 align="center">Looking To Try New Techs !!!.</h2>
 
-My Name Is **Aryan Garg** And I'm A Full Stack Web Developer And Software Developer Enthusiast. I Hail From Patiala, Punjab, India. I A'm Currently A Third Year Student At **Dr. B.R. Ambedkar National Institute Of Technology, Jalandhar, Punjab** Pursuing B.E/B.Tech In **Information Technology(IT)**. 
+<img width="40%" align="right"  src="https://github.com/code08-ind/Octocat/blob/main/183-1838256_ionicabizau-img-to-svg-github-octocat.png" >
+
+My Name Is **Aryan Garg** And I'm A Full Stack Web Developer And Software Developer Enthusiast. I Hail From Patiala, Punjab, India. I'm Currently A Third Year Student At **Dr. B.R. Ambedkar National Institute Of Technology, Jalandhar, Punjab** Pursuing B.E/B.Tech In **Information Technology(IT)**. ⚡
+
+<h3 align="center"> Web And App Developer | Technical Content Writer </h3>
+
+<br/>
 
 <h2 align="center">Let's Get Connected.</h2>
 
@@ -14,12 +20,16 @@ My Name Is **Aryan Garg** And I'm A Full Stack Web Developer And Software Develo
 <a href="https://www.npmjs.com/~aryangarg" target="_blank"><img alt="NPM" src="https://img.shields.io/badge/npm-informational?style=for-the-badge&logo=npm&logoColor=white&color=CB3837" /></a>
 <a href="https://www.instagram.com/aryan_garg_08/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-informational?style=for-the-badge&logo=instagram&logoColor=white&color=8a3ab9" />
 <a  href="mailto:gargaryan82000@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-informational?style=for-the-badge&logo=gmail&logoColor=white&color=D44638"></a>
+<a  href="https://t.me/AryanGarg08"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-informational?style=for-the-badge&logo=telegram&logoColor=white&color=0088CC">
 <a  href="https://stackoverflow.com/users/14839431/aryan-garg?tab=profile"><img alt="Stack Overflow" src="https://img.shields.io/badge/StackOverflow-informational?style=for-the-badge&logo=stack-overflow&logoColor=white&color=f48024">
 <a  href="https://code08-ind.github.io/Aryan-Garg/"><img alt="Portfolio Website" src="https://img.shields.io/badge/AryanGarg-informational?style=for-the-badge&logo=google-chrome&logoColor=white&color=4885ed">
 </a>
 </div>
 
+<br/>
+<br/>
 
+<br/>
 <h2 align="center">:writing_hand: More About Me</h2>
 
 
