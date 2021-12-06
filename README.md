@@ -79,8 +79,19 @@ Apart From Coding In Programming Language **JavaScript** And **C++**, I Like To 
 ![KUBERNETES](https://img.icons8.com/color/48/000000/kubernetes.png "KUBERNETES")
 ![GITHUB](https://img.icons8.com/color/48/000000/github--v1.png "GITHUB")
 ![SUBLIME-TEXT](https://img.icons8.com/color/48/000000/sublime-text.png "SUBLIME-TEXT")
+![VIRTUAL-BOX](https://img.icons8.com/color/48/000000/virtualbox.png "VIRTUAL-BOX")
+![CAMTASIA-STUDIO](https://img.icons8.com/color/48/000000/camtasia-studio.png "CAMTASIA-STUDIO")
+![TENSORFLOW](https://img.icons8.com/color/48/000000/tensorflow.png "TENSORFLOW")
+![MICROSOFT-OFFICE](https://img.icons8.com/color/48/000000/microsoft-office-2019.png "MICROSOFT-OFFICE")
+![TYPESCRIPT](https://img.icons8.com/color/48/000000/typescript.png "TYPESCRIPT")
+![OBS-STUDIO](https://img.icons8.com/color/48/000000/obs-studio.png "OBS-STUDIO")
+![VUE-JS](https://img.icons8.com/color/48/000000/vue-js.png "VUE-JS")
+![CODEPEN](https://img.icons8.com/color/48/000000/codepen.png "CODEPEN")
+![ICONS8](https://img.icons8.com/color/48/000000/icons8-new-logo.png "ICONS8")
+![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png "AWS")
+![ONEDRIVE](https://img.icons8.com/color/48/000000/microsoft-onedrive-2019.png "ONEDRIVE")
+![GCP](https://img.icons8.com/color/48/000000/google-cloud-platform.png "GCP")
  
-
 <h2 align="center">:chart_with_upwards_trend: My Other Stats</h2>
 
 <table>
