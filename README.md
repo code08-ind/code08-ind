@@ -28,8 +28,6 @@ My Name Is **Aryan Garg** And I'm A Full Stack Web Developer And Software Develo
 
 <br/>
 <br/>
-
-<br/>
 <h2 align="center">:writing_hand: More About Me</h2>
 
 
