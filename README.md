@@ -20,6 +20,7 @@ My Name Is **Aryan Garg** And I'm A Full Stack Web Developer And Software Develo
 <a  href="https://www.linkedin.com/in/aryan-garg-661552198/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=0077b5" /></a>
 <a href="https://www.npmjs.com/~aryangarg" target="_blank"><img alt="NPM" src="https://img.shields.io/badge/npm-informational?style=for-the-badge&logo=npm&logoColor=white&color=CB3837" /></a>
 <a href="https://www.instagram.com/aryan_garg_08/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-informational?style=for-the-badge&logo=instagram&logoColor=white&color=8a3ab9" />
+<a href="https://twitter.com/AryanGa66087243"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-informational?style=for-the-badge&logo=twitter&logoColor=white&color=1DA1F2" />
 <a  href="mailto:gargaryan82000@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-informational?style=for-the-badge&logo=gmail&logoColor=white&color=D44638"></a>
 <a  href="https://t.me/AryanGarg08"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-informational?style=for-the-badge&logo=telegram&logoColor=white&color=0088CC">
 <a  href="https://stackoverflow.com/users/14839431/aryan-garg?tab=profile"><img alt="Stack Overflow" src="https://img.shields.io/badge/StackOverflow-informational?style=for-the-badge&logo=stack-overflow&logoColor=white&color=f48024">
