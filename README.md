@@ -12,7 +12,7 @@ My Name Is **Aryan Garg** And I'm A Full Stack Web Developer And Software Develo
 
 <br/>
 
-<h2 align="center">Let's Get Connected.</h2>
+<h2 align="center">Let's Get Connected On Various Platforms</h2>
 
 <div align="center">
 <a  href="https://www.facebook.com/aryan.garg.9022662/" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-informational?style=for-the-badge&logo=facebook&logoColor=white&color=3b5998" /></a>
