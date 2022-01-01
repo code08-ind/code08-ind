@@ -2,7 +2,7 @@
 
 [![Header](https://github.com/code08-ind/Header/blob/main/I%20AM%20ARYAN%20GARG.png "Aryan Garg")](https://code08-ind.github.io/Portfolio_08/)
 
-<h2 align="center">Looking To Try New Techs !!!.</h2>
+<h2 align="center">Looking To Try New Technologies !!!.</h2>
 
 <img width="40%" align="right"  src="https://github.com/code08-ind/Octocat/blob/main/183-1838256_ionicabizau-img-to-svg-github-octocat.png" >
 
