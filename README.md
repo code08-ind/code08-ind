@@ -1,4 +1,4 @@
-<h1 align="center">Hello Folks 👋, I Am Aryan Garg! </h1>
+<h1 align="center">Hi Everyone 👋, I Am Aryan Garg! </h1>
 
 [![Header](https://github.com/code08-ind/Header/blob/main/I%20AM%20ARYAN%20GARG.png "Aryan Garg")](https://code08-ind.github.io/Portfolio_08/)
 
