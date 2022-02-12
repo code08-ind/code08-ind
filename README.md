@@ -86,7 +86,7 @@ Apart From Writing Code In Programming Language **JavaScript** And **C++**, I Li
 <br>
 ![VISUAL STUDIO](https://img.icons8.com/color/48/000000/visual-studio-2019.png "VISUAL STUDIO") 
 ![KUBERNETES](https://img.icons8.com/color/48/000000/kubernetes.png "KUBERNETES")
-![GITHUB](https://img.icons8.com/color/48/000000/github--v1.png "GITHUB")
+![SALESFORCE](https://img.icons8.com/color/48/000000/salesforce.png "SALESFORCE")
 ![SUBLIME-TEXT](https://img.icons8.com/color/48/000000/sublime-text.png "SUBLIME-TEXT")
 ![VIRTUAL-BOX](https://img.icons8.com/color/48/000000/virtualbox.png "VIRTUAL-BOX")
 ![CAMTASIA-STUDIO](https://img.icons8.com/color/48/000000/camtasia-studio.png "CAMTASIA-STUDIO")
