@@ -6,7 +6,7 @@
 
 <img width="40%" align="right"  src="https://github.com/code08-ind/Octocat/blob/main/183-1838256_ionicabizau-img-to-svg-github-octocat.png" >
 
-My Name Is **Aryan Garg** And I'm A Full Stack Web Developer And Software Developer Enthusiast. I Hail From Patiala, Punjab, India. I'm Currently A Third Year Student At **Dr. B.R. Ambedkar National Institute Of Technology, Jalandhar, Punjab** Pursuing B.E/B.Tech In **Information Technology(IT)**. ⚡
+My Name Is **Aryan Garg** And I'm A Full Stack Web Developer And Software Developer Enthusiast. I Hail From Patiala, Punjab, India. I'm Currently A Fourth Year Student At **Dr. B.R. Ambedkar National Institute Of Technology, Jalandhar, Punjab** Pursuing B.E/B.Tech In **Information Technology(IT)**. ⚡
 
 <h3 align="center"> Web And App Developer | Technical Content Writer </h3>
 
