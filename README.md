@@ -4,7 +4,7 @@
 
 <h2 align="center">Looking To Try New Technologies !!!.</h2>
 
-<img width="40%" align="right"  src="https://github.com/code08-ind/Octocat/blob/main/183-1838256_ionicabizau-img-to-svg-github-octocat.png" >
+<a href="https://app.daily.dev/code08-ind"><img src="https://api.daily.dev/devcards/cdfe53eb3f9540108c5f7bfb8d52e973.png?r=6pz" width="400" alt="Aryan Garg's Dev Card"/></a>
 
 My Name Is **Aryan Garg** And I'm A Full Stack Web Developer And Software Developer Enthusiast. I Hail From Patiala, Punjab, India. I'm Currently A Fourth Year Student At **Dr. B.R. Ambedkar National Institute Of Technology, Jalandhar, Punjab** Pursuing B.E/B.Tech In **Information Technology(IT)**. ⚡
 
