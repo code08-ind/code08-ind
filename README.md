@@ -113,7 +113,6 @@ Apart From Writing Code In Programming Language **JavaScript** And **C++**, I Li
 <div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=code08-ind&theme=algolia" alt="Aryan Garg" /></p>
  </div>
-<a href="https://app.daily.dev/code08-ind"><img src="https://api.daily.dev/devcards/cdfe53eb3f9540108c5f7bfb8d52e973.png?r=6pz" width="400" alt="Aryan Garg's Dev Card"/></a>
  
 <h2 align="center">:bar_chart: Projects</h2>
 
