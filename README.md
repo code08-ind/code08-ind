@@ -84,7 +84,7 @@ Apart From Writing Code In Programming Language **JavaScript** And **C++**, I Li
 ![HEROKU](https://img.icons8.com/color/48/000000/heroku.png "HEROKU")
 ![DOCKER](https://img.icons8.com/color/48/000000/docker.png "DOCKER")
 <br>
-![VISUAL STUDIO](https://img.icons8.com/color/48/000000/visual-studio-2019.png "VISUAL STUDIO") 
+![NUMPY](https://img.icons8.com/color/48/null/numpy.png "NUMPY") 
 ![KUBERNETES](https://img.icons8.com/color/48/000000/kubernetes.png "KUBERNETES")
 ![SALESFORCE](https://img.icons8.com/color/48/000000/salesforce.png "SALESFORCE")
 ![SUBLIME-TEXT](https://img.icons8.com/color/48/000000/sublime-text.png "SUBLIME-TEXT")
