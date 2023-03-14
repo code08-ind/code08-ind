@@ -34,7 +34,6 @@ My Name Is **Aryan Garg** And I'm A Full Stack Web Developer And Software Develo
 
 Apart From Writing Code In Programming Language **JavaScript** And **C++**, I Like To Work In **MERN Stack Of Web Development**. I Am **Microsoft Learn Student Ambassador** And A Member Of **DSC NITJ**. I Am Open For Any Discussions And Making New Projects. I Have Also Contributed To NPM By Contributing Public 5 NPM Packages On It And In Open Source Contribution.
 
-![](https://img.shields.io/badge/Age-22_Years-informational?style=flat-square&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Focus_On-Full_Stack_Developement-informational?style=flat-square&logoColor=white&color=informational)
 ![](https://img.shields.io/badge/Hails_From-Patiala-informational?style=flat-square&logoColor=white&color=success)
 ![](https://komarev.com/ghpvc/?username=code08-ind&color=orange&style=flat-square)
